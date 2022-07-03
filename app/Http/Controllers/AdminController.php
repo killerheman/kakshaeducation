@@ -227,8 +227,8 @@ class AdminController extends Controller
             {
                 $oldpic_1= $destination.$update_course[0]['pic'];
                 $oldpic_2= $destination.$update_course[0]['pic_2'];
-                unlink($oldpic_1);
-                unlink($oldpic_2);
+                //unlink($oldpic_1);
+               // unlink($oldpic_2);
             }
             $course_img=$CourseReq->file('pic');
             $pic1_ext=$CourseReq->pic->extension();

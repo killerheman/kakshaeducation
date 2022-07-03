@@ -5,9 +5,9 @@
   <div class="container">
     <div class="row no-gutters slider-text js-fullheight align-items-center" data-scrollax-parent="true">
         <div class="col-md-7 ftco-animate">
-          <span style="text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;font-size 80px;" class="subheading">Welcome To Kaksha Education</span>
+          <span style="text-shadow: 0 0 3px #000f, 0 0 5px #0000FF;font-size 80px;" class="subheading">Welcome To Kaksha Education</span>
           <h1 class="mb-4" style="-webkit-text-stroke: 1px white;text-shadow: 0 0 3px #FF0000">We are the leading online learning platform for making learning.</h1>
-          <p class="caps" style="text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;font-size 80px;">Enhance and level up your skills with Kaksha Education</p>
+          <p class="caps" style="text-shadow: 0 0 3px #000f, 0 0 5px #0000FF;font-size 80px;">Enhance and level up your skills with Kaksha Education</p>
           <p class="mb-0"><a href="{{url('/courses')}}" class="btn btn-primary">Our Course</a></p>
       </div>
     </div>
